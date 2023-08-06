@@ -24,6 +24,11 @@
 
 ###5.More advanced examples for adding text effects (2)
 
+[freefrontend.com](https://freefrontend.com/css-typing-text/)
+
+![Screenshot 2023-08-06 153402](https://github.com/sajith22580/css-effect-animation/assets/70060290/348581da-ca2b-4edd-ab11-9ea00d0afacd)
+
+
 
 
 
