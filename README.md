@@ -28,6 +28,19 @@
 
 ![Screenshot 2023-08-06 153402](https://github.com/sajith22580/css-effect-animation/assets/70060290/348581da-ca2b-4edd-ab11-9ea00d0afacd)
 
+###6.More advanced examples for adding text effects (3)
+
+[dev.to/kiranrajvjd](https://dev.to/kiranrajvjd/simple-text-effects-using-css-3dgp)
+
+###7.Types of effects added to websites (1)
+
+[opendesignsin.com](https://www.opendesignsin.com/blog/10-web-design-effects-to-enhance-your-website/)
+
+###8.Types of effects added to websites (1)
+
+[]
+
+
 
 
 
