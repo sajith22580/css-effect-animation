@@ -38,12 +38,19 @@
 
 ###8.Types of effects added to websites (1)
 
-[]
+[goingclear.com](https://goingclear.com/)
 
+###9.Collection of examples using HTML/CSS
 
+[freefrontend.com](https://freefrontend.com/css-animation-examples/)
 
+![Screenshot 2023-08-06 154454](https://github.com/sajith22580/css-effect-animation/assets/70060290/31f3c944-a668-413b-815a-ec02a4586069)
 
+####9-1 -> CSS Animation Libraries
 
+[xsgames.co/animatiss/](https://xsgames.co/animatiss/)
+
+![Screenshot 2023-08-06 154659](https://github.com/sajith22580/css-effect-animation/assets/70060290/499ad154-4882-4e66-af17-9e36879e9dc9)
 
 
 
